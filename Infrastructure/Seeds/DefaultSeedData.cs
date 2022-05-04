@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Infrastructure.Identity.Seeds
+namespace Infrastructure.Seeds
 {
     public static class DefaultSeedData
     {
